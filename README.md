@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sharkmouth-Sucks
+- 👋 Hi, I’m @popdxo (formerly @Sharkmouth-Sucks)
 - 👀 I’m interested in skidding
 - 🌱 I’m currently learning how to copy and paste faster 💪
 - 💞️ I’m looking to collaborate on nothing

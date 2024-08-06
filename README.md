@@ -1,4 +1,4 @@
-<img source="url(https://cdn.discordapp.com/banners/445022016060260358/23cafcb418773a6198bd5938254a5266?size=4096">
+<img src="url(https://cdn.discordapp.com/banners/445022016060260358/23cafcb418773a6198bd5938254a5266?size=4096">
     <h1>popdxo</h1>
     <h3>formerly sharkmouth sucks</h3>
 

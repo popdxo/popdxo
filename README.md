@@ -3,6 +3,7 @@
 # popdxo</h1>
     
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popdxo&show_icons=true&theme=gruvbox)](https://github.com/popdxo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popdxo&layout=donut)](https://github.com/popdxo/github-readme-stats)
 
 - 💪 Pro Skidder
 - 🏫 Learning: HTML, CSS, and JavaScript

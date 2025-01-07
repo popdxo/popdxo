@@ -2,7 +2,7 @@
     <h1>popdxo</h1>
     <h3>formerly sharkmouth sucks</h3>
     
-    [![GitHub stats](https://github-readme-stats.vercel.app/api?username=popdxo&show_icons=true&theme=gruvbox)](https://github.com/popdxo/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popdxo&show_icons=true&theme=gruvbox)](https://github.com/popdxo/github-readme-stats)
 
 - 💪 Pro Skidder
 - 🏫 Learning: HTML, CSS, and JavaScript

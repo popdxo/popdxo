@@ -1,7 +1,8 @@
 <img src="https://cdn.discordapp.com/banners/445022016060260358/23cafcb418773a6198bd5938254a5266?size=4096">
     <h1>popdxo</h1>
     <h3>formerly sharkmouth sucks</h3>
-    ![GitHub stats](https://github-readme-stats.vercel.app/api?username=popdxo&show_icons=true&theme=gruvbox)
+    
+    [![GitHub stats](https://github-readme-stats.vercel.app/api?username=popdxo&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 - 💪 Pro Skidder
 - 🏫 Learning: HTML, CSS, and JavaScript

@@ -1,9 +1,9 @@
 <img src="https://cdn.discordapp.com/banners/445022016060260358/23cafcb418773a6198bd5938254a5266?size=4096">
 
 # popdxo</h1>
-    
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popdxo&show_icons=true&theme=gruvbox)](https://github.com/popdxo/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popdxo&layout=donutcount=8&theme=gruvbox)](https://github.com/popdxo/github-readme-stats&langs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popdxo&layout=donut&count=8&theme=gruvbox)](https://github.com/popdxo/github-readme-stats&langs)
 
 - 💪 Pro Skidder
 - 🏫 Learning: HTML, CSS, and JavaScript

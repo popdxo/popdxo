@@ -2,6 +2,13 @@
 
 # popdxo</h1>
 
+<a href="https://github.com/popdxo/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=popdxo theme="gruvbox" />
+</a>
+<a href="https://github.com/popdxo/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=popdxo&layout=compact&langs_count=8&card_width=320" theme="gruvbox" />
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=popdxo&show_icons=true&theme=gruvbox)](https://github.com/popdxo/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=popdxo&layout=donut&count=8&theme=gruvbox)](https://github.com/popdxo/github-readme-stats&langs)
 
